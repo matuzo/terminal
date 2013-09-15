@@ -1,4 +1,8 @@
 docs
 ====
 
-useful commands and scripts
+some useful commands and scripts I put together
+
+CLI
+---
+shell commands
