@@ -1,8 +1,8 @@
 docs
 ====
 
-some useful commands and scripts I put together
+Some useful commands for the command line
 
-CLI
----
-shell commands
+[General commans](general.md)
+
+[Local server stuff](server.md)
