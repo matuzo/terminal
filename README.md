@@ -3,6 +3,8 @@ docs
 
 Some useful commands for the command line
 
-[General commans](general.md)
+[General commands](general.md)
 
 [Local server stuff](server.md)
+
+[Git](git.md)
