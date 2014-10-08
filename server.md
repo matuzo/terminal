@@ -1,26 +1,26 @@
-# Local server stuff
+### Local server stuff
 
-## Apache
+#### Apache
 
-### Start Apache
+**Start Apache**
 
-apachectl start
+	apachectl start
 
-### Stop Apache
+**Stop Apache**
 
-apachectl stop
+	apachectl stop
 
-### Restart Apache
+**Restart Apache**
 
-apachectl restart
+	apachectl restart
 
 
-## Virtual Hosts
+#### Virtual Hosts
 
-### Edit virtual hosts
+**Edit virtual hosts**
 
-sudo nano /etc/apache2/extra/httpd-vhosts.conf
+	sudo nano /etc/apache2/extra/httpd-vhosts.conf
 
-### Edit hosts
+**Edit hosts**
 
-sudo nano /etc/hosts
+	sudo nano /etc/hosts

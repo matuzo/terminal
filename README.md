@@ -1,6 +1,6 @@
-## docs
+## terminal stuff
 
-Some useful terminal commands
+Some useful terminal commands and shortcuts
 
 * [General commands](general.md)  
   filesystem,…

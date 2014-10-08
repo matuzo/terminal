@@ -1,5 +1,21 @@
-# Git
+### Git
 
-## Commit and add all tracked files
+**get status**
 
-git commit -am "..."
+    git status
+
+**fetch changes**
+
+    git pull
+
+**push changes**
+
+    git push
+
+**commit and add message**
+
+    git commit -m "message"
+
+**commit, add message and all tracked files**
+
+    git commit -am "message"
