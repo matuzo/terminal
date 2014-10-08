@@ -1,13 +1,15 @@
-# General commands
+### General commands
 
-## File system
+#### File system
 
-### Change to home directory (/Users/[username])
+**Change to home directory (/Users/[username])**
 
-cd
+    cd
 
-### List files including hidden files
-ls -a
+**List files including hidden files**  
+   
+    ls -a
 
-### Get total, used and available disk space
-df -h
+**Get total, used and available disk space**
+
+    df -h
