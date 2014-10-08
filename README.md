@@ -1,10 +1,9 @@
-docs
-====
+## docs
 
-Some useful commands for the command line
+Some useful terminal commands
 
-[General commands](general.md)
-
-[Local server stuff](server.md)
-
-[Git](git.md)
+* [General commands](general.md)  
+  filesystem,…
+* [Local server stuff](server.md)  
+  apache, virtual hosts,…
+* [Git](git.md)
