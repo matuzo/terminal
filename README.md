@@ -7,3 +7,5 @@ Some useful terminal commands and shortcuts
 * [Local server stuff](server.md)  
   apache, virtual hosts,…
 * [Git](git.md)
+
+test
