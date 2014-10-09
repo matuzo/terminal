@@ -20,4 +20,4 @@
 
     git commit -am "message"
 
- test
+ test von Martin erweitert
